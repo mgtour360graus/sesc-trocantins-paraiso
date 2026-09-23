@@ -1,0 +1,86 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_DBE98916_CF9C_E2B6_41E6_86E35FF31AA1.url = media/audio_DBF64915_CF83_E28B_41E5_B8C598FA893C_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_C5650C90_CE7C_E389_41D5_088CF93C9DAF.label = Acesso a quadra
+panorama_C565D1E8_CE7C_2599_41E1_9305270A0814.label = Casa de Madeira
+panorama_C565D491_CE7C_638B_41C5_BA7DF82F3852.label = Entrada
+panorama_C56B7C3E_CE7D_E2F6_41BF_7E02D2A600C8.label = Espaço Cultura
+panorama_C55C8809_CE7C_E29A_41CD_F553BA883B76.label = Espaço Cultura
+panorama_C56AC1BE_CE7C_65F6_41DF_53ECEA317979.label = Espaço Cultura
+panorama_C5697B04_CE7C_6689_41E6_25070CB20D75.label = Espaço Cultura
+panorama_C56A13AF_CE7C_2597_41D9_26A6B1082819.label = Espaço Cultura
+panorama_C56A5AC6_CE7D_E789_41D8_32B493F46EBE.label = Espaço Cultura
+panorama_C56A6B53_CE7C_268F_41CA_D858357CB14B.label = Espaço Cultura
+panorama_C5691EC4_CE7C_1F8A_41E0_147208F5BA9D.label = Espaço Cultura
+panorama_C56995E7_CE7C_2D96_41E1_E068FBD7E969.label = Orientação Pedagógica
+panorama_C5648DC0_CE7C_1D89_41D3_FBC6A7CAF2A7.label = Parque infantil
+panorama_C564C494_CE7C_238A_41C2_5BCD5A8FD872.label = Parque infantil
+panorama_C564CB8D_CE7C_259B_41E6_FCED596350C7.label = Parque infantil
+panorama_C5650ADA_CE7C_27BE_41E9_8BAA1E6976CF.label = Parque infantil
+panorama_C5650B03_CE7C_668E_41C2_1202D3D22AE6.label = Pergolado
+panorama_C5647186_CE7C_2589_41E8_130F30FAFEC9.label = Pilates
+panorama_C5641E78_CE7C_3F7B_41E3_2F8A17036639.label = Pilates
+panorama_C5646807_CE7C_2296_41E1_2E520A1FFF13.label = Pilates
+panorama_C567CC02_CE7C_228E_41CC_C142864CE4E8.label = Piscina
+panorama_C564432E_CE7F_E699_41D9_FCAE450414CE.label = Piscina
+panorama_C564B719_CE7F_EEBA_41E0_ACBC876CAEDD.label = Piscina
+panorama_C564705B_CE7F_E2BE_41E5_48C27F18D4E7.label = Piscina
+panorama_C56489C2_CE7F_E589_41E6_968635DB549F.label = Piscina
+panorama_C56404FD_CE7C_237A_41E0_DF8875EFF52D.label = Piscina
+panorama_C567257B_CE7C_ED7E_41C7_32AC1AAEFDC4.label = Quadra Esportiva
+panorama_C567D6DC_CE7C_2FBA_41D6_E348D0299B21.label = Quadra Esportiva
+panorama_C56484BE_CE7C_63F9_41D6_6DFC0ECFFED5.label = Quadra Esportiva
+panorama_C564962B_CE7C_2E9F_41E6_FBFDEBAD3B77.label = Quadra Esportiva
+panorama_C564BD73_CE7C_228E_41E1_F8C571083D81.label = Quadra Esportiva
+panorama_C564DBE8_CE7C_6599_41CF_88D0BA0E38A4.label = Quadra de Areia
+panorama_C564A354_CE7C_6689_41DD_2D62039796C9.label = Quadra de Areia
+panorama_C5650F58_CE7C_1EBA_41D7_5749AF740B8C.label = Refeitório
+panorama_C56A950B_CE7C_229F_41D4_1380851909F6.label = Refeitório
+panorama_C5652273_CE7C_268E_41D6_46239BF4BA2A.label = Refeitório
+panorama_C5654E87_CE7C_1F97_41CB_863332207EA1.label = Refeitório
+panorama_C56AB815_CE7C_628B_41E7_255DC64DFEDA.label = Refeitório
+panorama_C5652BF1_CE7C_258A_41C6_A8C9B284B6EE.label = Refeitório
+panorama_C565D8D8_CE7C_23BA_41E3_7AEEBC02EAF5.label = Refeitório
+panorama_C569E297_CE7C_27B6_41DC_6FBC3EC9AF4C.label = Sala 1
+panorama_C56918B6_CE7C_2389_41D5_D65F3AF710B5.label = Sala 1
+panorama_C56904F6_CE7C_6376_41E6_D61C191313BB.label = Sala 1
+panorama_C565A66B_CE7C_2E9E_41E1_D70E7AFD15A3.label = Sala 4
+panorama_C565D87B_CE7C_237E_41DC_B0CD655A3128.label = Sala 4
+panorama_C5625D65_CE7C_228B_41E1_AE3099A165CA.label = Sala 4
+panorama_C5626F72_CE7C_3E8F_41E3_20A78273842B.label = Sala 4
+panorama_C56A10D5_CE7C_238B_41CF_05F44AA3D7F5.label = Sala de Leitura
+panorama_C56A7A52_CE7C_268E_41D8_B4F3C187FD2D.label = Sala de Leitura
+panorama_C56AA79B_CE7C_2DBE_41DA_6FBD1A266E74.label = Sala de Leitura
+panorama_C569CC48_CE7C_2299_41D1_84C72D0BD699.label = Sala dos Professores
+panorama_C56960BE_CE7C_E3F9_41E3_2A90744F4288.label = Secretária
+panorama_C55C59FA_CE7C_E579_41E9_99F2492FD8EC.label = Secretária
+panorama_C2138BE0_CE7C_258A_41E9_BFB84DC44A85.label = Secretária Central de Atendimentos
+panorama_C56A91BA_CE7C_65F9_41CB_DD5C932C3ED3.label = Supervisão
+panorama_C56AEB57_CE7C_66B7_41BF_5B4699FCD7FD.label = Supervisão
+panorama_C56AD4B0_CE7C_638A_41E7_5C2839B78344.label = Supervisão
+panorama_C56A4E62_CE7C_1E89_41E0_BED50FC7730A.label = Supervisão
+panorama_DDE5A1F8_CF8C_2579_41E0_90ADEA54C1F6.label = Vista Aérea
+panorama_DDE5007C_CF8F_E379_41D6_EE6AA40FBD5C.label = Vista Aérea Piscina
+panorama_DDE68A48_CF8C_669A_41C8_779AA93F02A3.label = Vista Aérea fachada
+panorama_DDE5068C_CF8F_EF9A_41B6_B8BB87361B9A.label = Vista Aérea piscina
+panorama_DDE773E5_CF8C_658B_41B1_B5245D1A64C7.label = Vista Aérea quadra de areia
+panorama_C56AEEFF_CE7C_1F77_41E2_D76FD28AF818.label = sala 2
+panorama_C569285D_CE7C_62BB_41E0_2D4783FD1FDF.label = sala 2
+panorama_C56A8E18_CE7C_3EB9_41CC_E83A6172A0DA.label = sala 3
+panorama_C56AD700_CE7C_2E8A_41D3_E543E17821E1.label = sala 3
+panorama_C56AA49C_CE7C_23B9_41E4_05FDB20105C8.label = sala 3
+
+## Tour
+
+### Description
+tour.description = Explore o sesc Paraíso em um tour virtual 360?
+
+### Title
+tour.name = Sesc Paraíso
