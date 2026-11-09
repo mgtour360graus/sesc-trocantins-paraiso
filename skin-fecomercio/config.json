@@ -1,12 +1,12 @@
 {
-  "version": "4.3.6-sesc-paraiso-native-safe-r1",
+  "version": "5.0-paraiso-revisao-cliente-20261109-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
     "tourName": "Sesc Paraíso do Tocantins - Tour 360°",
     "unitName": "Sesc Paraíso do Tocantins",
-    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "logo": "skin-fecomercio/assets/marca-sesc-colorida-20261109.png",
+    "cornerLogo": "skin-fecomercio/assets/marca-sesc-branca-20261109.png",
+    "tagline": "",
     "colors": {
       "blue": "#004C99",
       "blueDark": "#003865",
@@ -66,7 +66,7 @@
       "id": "geral",
       "number": "01",
       "short": "Geral",
-      "title": "Visão geral",
+      "title": "Geral",
       "eyebrow": "Sesc Paraíso - Tocantins",
       "description": "Comece pelas vistas aéreas e conheça toda a unidade.",
       "accent": "#0B78BF",
@@ -94,7 +94,7 @@
       "id": "entrada",
       "number": "02",
       "short": "Entrada",
-      "title": "Entrada e atendimento",
+      "title": "Entrada",
       "eyebrow": "Acolhimento e orientação",
       "description": "Conheça a entrada, a Central de Atendimento e os ambientes administrativos.",
       "accent": "#12AFC2",
@@ -119,84 +119,16 @@
         {
           "label": "Supervisão",
           "index": 25
-        },
-        {
-          "label": "Pergolado",
-          "index": 61
-        }
-      ]
-    },
-    {
-      "id": "esporte",
-      "number": "03",
-      "short": "Esporte",
-      "title": "Esporte e lazer",
-      "eyebrow": "Movimento e convivência",
-      "description": "Explore a Quadra Poliesportiva, a quadra de areia e as piscinas.",
-      "accent": "#4CA847",
-      "surface": "#EAF9E7",
-      "destinations": [
-        {
-          "label": "Acesso à área esportiva",
-          "index": 36
-        },
-        {
-          "label": "Quadra Poliesportiva",
-          "index": 38
-        },
-        {
-          "label": "Quadra de areia",
-          "index": 43
-        },
-        {
-          "label": "Piscinas",
-          "index": 49
-        }
-      ]
-    },
-    {
-      "id": "cultura",
-      "number": "04",
-      "short": "Cultura",
-      "title": "Cultura e leitura",
-      "eyebrow": "Conhecimento e expressão",
-      "description": "Visite o Espaço Cultura e a sala de leitura.",
-      "accent": "#7A4EB2",
-      "surface": "#F1E9FF",
-      "destinations": [
-        {
-          "label": "Espaço Cultura",
-          "index": 4
-        },
-        {
-          "label": "Sala de leitura",
-          "index": 22
-        }
-      ]
-    },
-    {
-      "id": "saude",
-      "number": "05",
-      "short": "Saúde",
-      "title": "Saúde e bem-estar",
-      "eyebrow": "Cuidado e qualidade de vida",
-      "description": "Conheça os ambientes de Pilates.",
-      "accent": "#D94C63",
-      "surface": "#FFE8ED",
-      "destinations": [
-        {
-          "label": "Pilates",
-          "index": 46
         }
       ]
     },
     {
       "id": "educacao",
-      "number": "06",
+      "number": "03",
       "short": "Educação",
       "title": "Educação",
       "eyebrow": "Ambientes para aprender",
-      "description": "Explore as salas de aula, a sala dos professores e os espaços infantis.",
+      "description": "Salas, leitura, parque infantil e refeitório escolar.",
       "accent": "#E4B400",
       "surface": "#FFF8C7",
       "destinations": [
@@ -227,22 +159,70 @@
         {
           "label": "Casa de madeira",
           "index": 62
+        },
+        {
+          "label": "Sala de leitura 01",
+          "index": 22
+        },
+        {
+          "label": "Refeitório 01",
+          "index": 29
         }
       ]
     },
     {
-      "id": "alimentacao",
-      "number": "07",
-      "short": "Alimentação",
-      "title": "Alimentação",
-      "eyebrow": "Conforto e convivência",
-      "description": "Conheça o refeitório da unidade.",
-      "accent": "#E57A22",
-      "surface": "#FFF0DE",
+      "id": "esporte",
+      "number": "04",
+      "short": "Esporte",
+      "title": "Esporte",
+      "eyebrow": "Movimento e convivência",
+      "description": "Quadras, piscinas e Pilates.",
+      "accent": "#4CA847",
+      "surface": "#EAF9E7",
       "destinations": [
         {
-          "label": "Refeitório",
-          "index": 29
+          "label": "Acesso à área esportiva",
+          "index": 36
+        },
+        {
+          "label": "Quadra Poliesportiva",
+          "index": 38
+        },
+        {
+          "label": "Quadra de areia",
+          "index": 43
+        },
+        {
+          "label": "Piscinas",
+          "index": 49
+        },
+        {
+          "label": "Pilates 01",
+          "index": 46
+        }
+      ]
+    },
+    {
+      "id": "area-comum",
+      "number": "05",
+      "short": "Área Comum",
+      "title": "Área Comum",
+      "eyebrow": "Acolhimento e orientação",
+      "description": "Hall, circulação e pergolado da unidade.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        {
+          "label": "Hall e circulação · 01",
+          "index": 4
+        },
+        {
+          "label": "Pergolado",
+          "index": 61
+        },
+        {
+          "label": "Circulação para área externa",
+          "index": 59
         }
       ]
     }
@@ -274,8 +254,8 @@
     },
     {
       "index": 4,
-      "name": "Espaço Cultura 01",
-      "group": "cultura",
+      "name": "Hall e circulação · 01",
+      "group": "area-comum",
       "thumb": "media/panorama_C55C8809_CE7C_E29A_41CD_F553BA883B76_t.webp"
     },
     {
@@ -310,20 +290,20 @@
     },
     {
       "index": 10,
-      "name": "Espaço Cultura 02",
-      "group": "cultura",
+      "name": "Hall e circulação · 02",
+      "group": "area-comum",
       "thumb": "media/panorama_C5691EC4_CE7C_1F8A_41E0_147208F5BA9D_t.webp"
     },
     {
       "index": 11,
-      "name": "Espaço Cultura 03",
-      "group": "cultura",
+      "name": "Hall e circulação · 03",
+      "group": "area-comum",
       "thumb": "media/panorama_C5697B04_CE7C_6689_41E6_25070CB20D75_t.webp"
     },
     {
       "index": 12,
-      "name": "Espaço Cultura 04",
-      "group": "cultura",
+      "name": "Hall e circulação · 04",
+      "group": "area-comum",
       "thumb": "media/panorama_C56AC1BE_CE7C_65F6_41DF_53ECEA317979_t.webp"
     },
     {
@@ -358,44 +338,44 @@
     },
     {
       "index": 18,
-      "name": "Espaço Cultura 05",
-      "group": "cultura",
+      "name": "Hall e circulação · 05",
+      "group": "area-comum",
       "thumb": "media/panorama_C56A6B53_CE7C_268F_41CA_D858357CB14B_t.webp"
     },
     {
       "index": 19,
-      "name": "Espaço Cultura 06",
-      "group": "cultura",
+      "name": "Hall e circulação · 06",
+      "group": "area-comum",
       "thumb": "media/panorama_C56B7C3E_CE7D_E2F6_41BF_7E02D2A600C8_t.webp"
     },
     {
       "index": 20,
-      "name": "Espaço Cultura 07",
-      "group": "cultura",
+      "name": "Hall e circulação · 07",
+      "group": "area-comum",
       "thumb": "media/panorama_C56A5AC6_CE7D_E789_41D8_32B493F46EBE_t.webp"
     },
     {
       "index": 21,
-      "name": "Espaço Cultura 08",
-      "group": "cultura",
+      "name": "Hall e circulação · 08",
+      "group": "area-comum",
       "thumb": "media/panorama_C56A13AF_CE7C_2597_41D9_26A6B1082819_t.webp"
     },
     {
       "index": 22,
       "name": "Sala de leitura 01",
-      "group": "cultura",
+      "group": "educacao",
       "thumb": "media/panorama_C56A7A52_CE7C_268E_41D8_B4F3C187FD2D_t.webp"
     },
     {
       "index": 23,
       "name": "Sala de leitura 02",
-      "group": "cultura",
+      "group": "educacao",
       "thumb": "media/panorama_C56A10D5_CE7C_238B_41CF_05F44AA3D7F5_t.webp"
     },
     {
       "index": 24,
       "name": "Sala de leitura 03",
-      "group": "cultura",
+      "group": "educacao",
       "thumb": "media/panorama_C56AA79B_CE7C_2DBE_41DA_6FBD1A266E74_t.webp"
     },
     {
@@ -425,43 +405,43 @@
     {
       "index": 29,
       "name": "Refeitório 01",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C56AB815_CE7C_628B_41E7_255DC64DFEDA_t.webp"
     },
     {
       "index": 30,
       "name": "Refeitório 02",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C5654E87_CE7C_1F97_41CB_863332207EA1_t.webp"
     },
     {
       "index": 31,
       "name": "Refeitório 03",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C56A950B_CE7C_229F_41D4_1380851909F6_t.webp"
     },
     {
       "index": 32,
       "name": "Refeitório 04",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C5652BF1_CE7C_258A_41C6_A8C9B284B6EE_t.webp"
     },
     {
       "index": 33,
       "name": "Refeitório 05",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C5652273_CE7C_268E_41D6_46239BF4BA2A_t.webp"
     },
     {
       "index": 34,
       "name": "Refeitório 06",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C565D8D8_CE7C_23BA_41E3_7AEEBC02EAF5_t.webp"
     },
     {
       "index": 35,
       "name": "Refeitório 07",
-      "group": "alimentacao",
+      "group": "educacao",
       "thumb": "media/panorama_C5650F58_CE7C_1EBA_41D7_5749AF740B8C_t.webp"
     },
     {
@@ -527,19 +507,19 @@
     {
       "index": 46,
       "name": "Pilates 01",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_C5647186_CE7C_2589_41E8_130F30FAFEC9_t.webp"
     },
     {
       "index": 47,
       "name": "Pilates 02",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_C5646807_CE7C_2296_41E1_2E520A1FFF13_t.webp"
     },
     {
       "index": 48,
       "name": "Pilates 03",
-      "group": "saude",
+      "group": "esporte",
       "thumb": "media/panorama_C5641E78_CE7C_3F7B_41E3_2F8A17036639_t.webp"
     },
     {
@@ -605,7 +585,7 @@
     {
       "index": 59,
       "name": "Circulação para área externa",
-      "group": "entrada",
+      "group": "area-comum",
       "thumb": "media/panorama_C5653E0C_CE7C_7E9A_41D0_85F9ABC17FDE_t.webp"
     },
     {
@@ -617,7 +597,7 @@
     {
       "index": 61,
       "name": "Pergolado",
-      "group": "entrada",
+      "group": "area-comum",
       "thumb": "media/panorama_C5650B03_CE7C_668E_41C2_1202D3D22AE6_t.webp"
     },
     {
